@@ -2,6 +2,6 @@
 
 Structures, pointers, algorithms, lists, trees.
 
-The descriptions in the comments in the с-files.
+Descriptions of tasks in comments in с-files.
 
 Описание задач в комментариях в с-файлах.
